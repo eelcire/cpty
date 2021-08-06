@@ -6,7 +6,7 @@ export const RESET_DONATED = "resetDonated";
 
 const initialState = {
   totalFund: 0,
-  donors: 11,
+  donors: 0,
   error: undefined,
   donated: false,
   setBackground: false,
