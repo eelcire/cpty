@@ -1,0 +1,14 @@
+.info-error-container {
+  height: 30px;
+  width: 520px;
+  background-color: #fde4e4;
+  padding: 10px 0 10px 0;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.info-error-text {
+  text-indent: 15px;
+  color: #d19b9b;
+}

@@ -1,0 +1,29 @@
+.dono-text-container {
+  height: 30px;
+  width: 520px;
+  background-color: #f0d0ff;
+  padding: 10px 0 10px 0;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  animation: fadeOut ease 5s;
+}
+
+.not-donated {
+  visibility: hidden;
+}
+
+.dono-text {
+  text-indent: 15px;
+  color: #bd6ed4;
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}

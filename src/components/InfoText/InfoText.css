@@ -1,0 +1,32 @@
+.info-text-container {
+  background-color: #e4ebfd;
+  height: 30px;
+  width: 520px;
+  border-radius: 8px;
+  padding: 10px 0 10px 0;
+  display: flex;
+  align-items: center;
+}
+
+.info-text {
+  text-indent: 15px;
+  color: #86a0d7;
+}
+
+.info-text b {
+  color: #6e8cdc;
+}
+
+.triangle-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.triangle-down {
+  margin-right: 50px;
+  width: 0;
+  height: 0;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-top: 16px solid #e4ebfd;
+}

@@ -1,0 +1,29 @@
+.card-container {
+  height: 300px;
+  width: 440px;
+  border-radius: 8px;
+  box-shadow: 0 0 12px rgb(209, 209, 209);
+  background-color: white;
+  border-top: 15px solid #b4f1e4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  padding: 40px;
+  margin: 5px 0 30px 0;
+}
+
+h1 {
+  margin: 5px 0 3px 0;
+  color: #202020;
+}
+
+p {
+  color: #898c8f;
+  font-weight: 400;
+  font-size: 17px;
+}
+
+b {
+  color: #202020;
+}

@@ -1,0 +1,10 @@
+.progress-bar {
+  height: 15px;
+  position: absolute;
+  top: -15px;
+  left: 0;
+  background-color: #18cca4;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  align-self: flex-start;
+}
